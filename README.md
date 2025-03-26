@@ -14,4 +14,5 @@
 009-test orchestration service\n
 010-test orchestration service\n
 011-test orchestration service\n
+012-test orchestration service\n
 
