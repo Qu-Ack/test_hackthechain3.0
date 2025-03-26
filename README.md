@@ -10,3 +10,5 @@
 005-test orchestration service\n
 006-test orchestration service\n
 007-test orchestration service\n
+008-test orchestration service\n
+
